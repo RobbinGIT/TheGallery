@@ -13,7 +13,7 @@ https://docs.djangoproject.com/en/1.11/ref/settings/
 import os
 import django_heroku
 import dj_database_url
-from decouple import config,Csv
+from decouple import config, Csv
 
 from pathlib import Path
 import cloudinary
@@ -21,10 +21,10 @@ import cloudinary.uploader
 import cloudinary.api
 
 cloudinary.config(
-  cloud_name = "galeria2",
-  api_key = "883299394337371",
-  api_secret = "D1AwbwEnV0Kgz_mFMchy9MERLuM",
-  secure = True
+    cloud_name="galeria2",
+    api_key="883299394337371",
+    api_secret="D1AwbwEnV0Kgz_mFMchy9MERLuM",
+    secure=True
 )
 
 
@@ -92,7 +92,7 @@ WSGI_APPLICATION = 'gallery.wsgi.application'
 
 # Database
 # https://docs.djangoproject.com/en/1.11/ref/settings/#databases
-MODE=config("MODE", default="dev")
+MODE = config("MODE", default="dev")
 SECRET_KEY = config('SECRET_KEY')
 DEBUG = config('DEBUG', default=False, cast=bool)
 # development
@@ -106,7 +106,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 #            'HOST': config('DB_HOST'),
 #            'PORT': '',
 #        }
-       
+
 #    }
 # # production
 # else:
@@ -126,7 +126,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'gal',
         'USER': 'moringa',
-        'PASSWORD':'access',
+        'PASSWORD': 'access',
     }
 }
 
@@ -176,6 +176,6 @@ STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
 
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-DEFAULT_AUTO_FIELD='django.db.models.AutoField' 
+DEFAULT_AUTO_FIELD = 'django.db.models.AutoField'
 
 django_heroku.settings(locals())
