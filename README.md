@@ -38,7 +38,7 @@ As a user of the application you will be able to:
 5. Migrate the database using the command below
 
 
-       python3.6 manage.py migrate
+       python3.8 manage.py migrate
 6. Then serve the app, so that the app will be available on localhost:8000, to do this run the command below
 
 
