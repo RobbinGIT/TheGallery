@@ -34,9 +34,6 @@ def search_results(request):
         return render(request, 'search.html',{"message":message})
 
 
-
-
-
 def image_properties(request,image_id):
     location=Location.get_locations()
 
