@@ -44,3 +44,5 @@ As a user of the application you will be able to:
 
        python manage.py runserver
 7. Use the navigation bar/navbar/navigation pane/menu to navigate and explore the app.
+
+
