@@ -4,7 +4,7 @@
 
 ## AUTHOR 
 *ROBBIN MWANGI*
-
+[Robbin Mwangi](https://github.com/RobbinGIT)
 
 ## DESCRIPTION 
 
@@ -47,10 +47,16 @@ As a user of the application you will be able to:
 
 
 ## TECHNOLOGIES USED 
-
-* [Django](https://www.djangoproject.com/) - web framework used
+* [Python3.8](https://www.python.org/)
+* [Django](https://docs.djangoproject.com)
+* [Heroku](https://heroku.com)
 * HTML - For building Mark Up pages/User Interface
 * CSS - For Styling User Interface
+
+## Known Bugs
+
+* There are no known bugs currently but pull requests are allowed incase you spot a bug
+
 
 ## CONTACTS
 robbingithimbo@gmail.com
