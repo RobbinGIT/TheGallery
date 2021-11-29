@@ -46,3 +46,8 @@ As a user of the application you will be able to:
 7. Use the navigation bar/navbar/navigation pane/menu to navigate and explore the app.
 
 
+## TECHNOLOGIES USED 
+
+* [Django](https://www.djangoproject.com/) - web framework used
+* HTML - For building Mark Up pages/User Interface
+* CSS - For Styling User Interface
