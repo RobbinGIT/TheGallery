@@ -54,3 +54,11 @@ As a user of the application you will be able to:
 
 ## CONTACTS
 robbingithimbo@gmail.com
+
+## LIVE LINK
+https://robsgallery.herokuapp.com/
+
+
+## LICENSE 
+
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
