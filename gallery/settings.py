@@ -22,8 +22,8 @@ import cloudinary.api
 
 cloudinary.config(
     cloud_name="galeria2",
-    api_key="883299394337371",
-    api_secret="D1AwbwEnV0Kgz_mFMchy9MERLuM",
+    api_key="839797526961269",
+    api_secret="8-bWpm3YGTC4Rahj3RBnJgcE8Dk",
     secure=True
 )
 
