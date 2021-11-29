@@ -1,16 +1,12 @@
-#welcome_text {
-    font-size: 35pt;
-    color: #fff;
-}
 
-#home {
-    text-align: center;
-    background-image: url("/static/img/bg1.jpg");
-    background-repeat: no-repeat;
-    background-size: cover;
+#section1{
+    background: rgb(3,71,92);
+    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(3,19,32,1) 31%, rgba(2,29,50,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
+
 }
 .navbar {
-    background-color: black;
+    background: rgb(3,71,92);
+    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
     border: none;
     border-radius: 0%;
 }
@@ -44,9 +40,14 @@
     margin-bottom: 20px;
     color: coral;
 }
+.super{
+    background: rgb(3,71,92);
+    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
+}
 
 footer {
-    background: black;
+    background: rgb(3,71,92);
+    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
     border: none;
     box-sizing: border-box;
     color: white;
@@ -54,6 +55,7 @@ footer {
     overflow: hidden;
     height: 60px;
     width: 100%;
+
 }
 
 
@@ -72,3 +74,9 @@ footer {
           font-size: 3.5rem;
         }
       }
+
+
+    .super{
+        background: rgb(3,71,92);
+        background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
+    }
