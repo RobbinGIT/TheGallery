@@ -51,3 +51,6 @@ As a user of the application you will be able to:
 * [Django](https://www.djangoproject.com/) - web framework used
 * HTML - For building Mark Up pages/User Interface
 * CSS - For Styling User Interface
+
+## CONTACTS
+robbingithimbo@gmail.com
