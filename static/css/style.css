@@ -13,7 +13,7 @@
 }
 .navbar {
     background: rgb(3,71,92);
-    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(3,19,32,1) 31%, rgba(2,29,50,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
+        background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
     border: none;
     border-radius: 0%;
 }
@@ -50,7 +50,7 @@
 
 footer {
     background: rgb(3,71,92);
-    background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(3,19,32,1) 31%, rgba(2,29,50,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
+        background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
     border: none;
     box-sizing: border-box;
     color: white;
@@ -80,6 +80,6 @@ footer {
 
 
     .super{
-        background: background: rgb(3,71,92);
-        background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);;
+        background: rgb(3,71,92);
+        background: linear-gradient(90deg, rgba(3,71,92,1) 1%, rgba(3,9,13,1) 5%, rgba(7,80,85,1) 31%, rgba(7,80,85,1) 75%, rgba(3,5,6,1) 95%, rgba(3,71,92,1) 100%);
     }
