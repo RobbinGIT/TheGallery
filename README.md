@@ -22,6 +22,13 @@ As a user of the application you will be able to:
 4. Click on share icon to share the image with any of your social account or alternatively Copy a link to the photo and share with your friends.
 5. View photos based on the location they were taken or category.
 
+## Admin Dashboard
+
+[Admin Dashboard Login](https://robsgallery.herokuapp.com/admin/)  with credentials
+
+    username : `superadmin`
+
+    password : `Shizzle27!`
 ### Installation and setup instructions
 
 1. Clone this repo: git clone https://github.com/RobbinGIT/TheGallery.git
@@ -67,4 +74,6 @@ https://robsgallery.herokuapp.com/
 
 ## LICENSE 
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the ## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE) file for details
